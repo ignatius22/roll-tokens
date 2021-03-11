@@ -38,7 +38,7 @@ This App fetches data from the Roll's Api and renders lists of tokens and also e
 - Clone the repository.
 -	Run npm install to install dependencies.
 -	Run npm start to start the development server.
--	Your browser should open. Click on the dist folder to see the app.
+-	Your browser should open.
 
 # About this project
 
