@@ -1,1 +1,3 @@
-export const API_ID = 'https://api.tryroll.com/v2/tokens';
+const apiCall = link => fetch(link).then(response => response.json());
+
+export default apiCall;
