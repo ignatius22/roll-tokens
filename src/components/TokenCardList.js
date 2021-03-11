@@ -1,4 +1,3 @@
-import { symbol } from 'joi';
 import React from 'react';
 import Card from './TokenCard';
 
@@ -13,8 +12,7 @@ const TokenCardList = ({ tokens }) => (
           id={i}
           symbol={token.symbol}
         />
-      ),
-      console.log(tokens)
+      )
     )}
   </div>
 );
